@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.heading-box {
+  background: black;
+  height: 500px;
+  width: 100%;
+  max-width: 1024px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heading-box h1 {
+  display: inline-block;
+  color: white;
+  font-family: Helvetica, serif;
+}
+
+/*# sourceMappingURL=styles.css.map */
